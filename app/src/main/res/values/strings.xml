@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SpeedOverlay</string>
+    <string name="overlay_preview">Overlayvoorbeeld</string>
+    <string name="transparency_label">Transparantie</string>
+    <string name="size_label">Grootte</string>
+    <string name="unit_label">Snelheidseenheid</string>
+    <string name="language_label">Taal</string>
+    <string name="start_overlay">Start overlay</string>
+    <string name="stop_overlay">Stop overlay</string>
+    <string name="exit_app">Sluit app</string>
+    <string name="permission_explanation">De app heeft toestemming nodig om boven andere apps te tekenen en je locatie te gebruiken voor snelheid.</string>
+    <string name="overlay_running">Overlay actief</string>
+    <string name="overlay_notification_channel">SpeedOverlay</string>
+    <string name="overlay_notification_text">De snelheidsbadge blijft zichtbaar en gebruikt GPS.</string>
+    <string name="unit_kmh">km/h</string>
+    <string name="unit_mph">mph</string>
+    <string name="language_nl">Nederlands</string>
+    <string name="language_en">English</string>
+    <string name="language_fr">Français</string>
+    <string name="language_de">Deutsch</string>
+    <string name="language_it">Italiano</string>
+    <string name="language_es">Español</string>
+    <string name="language_pt">Português</string>
+</resources>
